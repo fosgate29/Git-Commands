@@ -1,3 +1,5 @@
+Ethereum: * [Curated resource for Ethreum](https://github.com/djphillyg/awesome-ethereum)
+
 Linux
 Remove dir and all contents:
 rm -rf <dir name>
