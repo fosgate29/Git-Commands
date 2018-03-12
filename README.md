@@ -1,3 +1,7 @@
+Linux
+Remove dir and all contents:
+rm -rf <dir name>
+
 Git Commands
 ============
 
