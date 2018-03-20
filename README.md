@@ -8,6 +8,8 @@ Git Commands
 ============
 
 
+`git push --set-upstream origin develop`
+
 ### Getting & Creating Projects
 
 | Command | Description |
