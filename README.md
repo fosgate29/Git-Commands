@@ -3,10 +3,14 @@ Ethereum: * [Curated resource for Ethreum](https://github.com/djphillyg/awesome-
 Linux
 Remove dir and all contents:
 rm -rf <dir name>
+  
+  
 
 Git Commands
 ============
 
+List differecens:
+git diff origin/master..HEAD
 
 `git push --set-upstream origin develop`
 
