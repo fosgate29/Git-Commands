@@ -10,7 +10,9 @@ Git Commands
 ============
 
 List differecens:
-git diff origin/master..HEAD
+`git diff origin/master..HEAD`
+
+`git show <commit hash> <comit hash>`
 
 `git push --set-upstream origin develop`
 
