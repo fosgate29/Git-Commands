@@ -16,6 +16,8 @@ List differecens:
 
 `git push --set-upstream origin develop`
 
+`git reset --hard HEAD^` - descarta committs que não devem ir pro push
+
 ### Getting & Creating Projects
 
 | Command | Description |
