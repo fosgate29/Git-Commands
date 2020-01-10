@@ -82,6 +82,7 @@ List differecens:
 - Terminator
 - Metamask
 - Truffle
+- npm
 
  - Instalar HP P1005 antiga no Ubuntu: só funcionou seguindo isto, depois de instalar hplib e executando  python3 $(which hp-setup)
 
