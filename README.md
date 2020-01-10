@@ -74,3 +74,9 @@ List differecens:
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
 
+### Luiz dev environment
+- Visual Code
+- JAva
+- Eclipse
+- Github
+
