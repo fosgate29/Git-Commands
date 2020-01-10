@@ -79,6 +79,9 @@ List differecens:
 - JAva
 - Eclipse
 - Github
+- Terminator
+- Metamask
+- Truffle
 
  - Instalar HP P1005 antiga no Ubuntu: só funcionou seguindo isto, depois de instalar hplib e executando  python3 $(which hp-setup)
 
