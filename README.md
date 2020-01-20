@@ -77,7 +77,7 @@ List differecens:
 ### Luiz dev environment
 - Visual Code
 - JAva
-- Eclipse - usar java 8 - sudo apt install openjdk-8-jdk openjdk-8-jre
+- Eclipse - usar java 8 - sudo apt install openjdk-8-jdk openjdk-8-jre - GWT
 - Github
 - Terminator
 - Metamask
@@ -88,5 +88,5 @@ List differecens:
  
  - setar no github ssh e gpg key
  
- - 
+ - install mysql workbench
 
