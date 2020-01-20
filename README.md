@@ -77,7 +77,7 @@ List differecens:
 ### Luiz dev environment
 - Visual Code
 - JAva
-- Eclipse
+- Eclipse - usar java 8 - sudo apt install openjdk-8-jdk openjdk-8-jre
 - Github
 - Terminator
 - Metamask
@@ -87,4 +87,6 @@ List differecens:
  - Instalar HP P1005 antiga no Ubuntu: só funcionou seguindo isto, depois de instalar hplib e executando  python3 $(which hp-setup)
  
  - setar no github ssh e gpg key
+ 
+ - 
 
