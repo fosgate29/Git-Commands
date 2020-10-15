@@ -89,4 +89,8 @@ List differecens:
  - setar no github ssh e gpg key
  
  - install mysql workbench
+ 
+ - fazer L3150 funcionar em Ubuntu: 
+   https://tutorialforlinux.com/2020/03/11/step-by-step-driver-epson-l3150-l3160-ubuntu-20-04-installation/
+   Pra configurar impressora e wifi, entrar wifi direct na impressora, entrar local http://192.168.223.1/ e se for outro link, imprimir página de relatorio que nela sai a url. aí entrar em conf avançadas e configurar a rede wifi manualmente (ssid e senha). aí depois é só ir em adicionar impressora que acha a impressora e adicionar.
 
