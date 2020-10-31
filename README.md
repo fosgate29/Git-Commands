@@ -1,8 +1,15 @@
 Ethereum: * [Curated resource for Ethreum](https://github.com/djphillyg/awesome-ethereum)
 
-Linux
+- Linux
 Remove dir and all contents:
 rm -rf <dir name>
+  
+- Vagrant
+Good tutorial: https://www.youtube.com/watch?v=vBreXjkizgo
+
+Nodemodule tip:
+npm install -g depcheck
+than 'npx depcheck' inside root directory
   
   
 
