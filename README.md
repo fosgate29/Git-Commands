@@ -100,4 +100,16 @@ List differecens:
  - fazer L3150 funcionar em Ubuntu: 
    https://tutorialforlinux.com/2020/03/11/step-by-step-driver-epson-l3150-l3160-ubuntu-20-04-installation/
    Pra configurar impressora e wifi, entrar wifi direct na impressora, entrar local http://192.168.223.1/ e se for outro link, imprimir página de relatorio que nela sai a url. aí entrar em conf avançadas e configurar a rede wifi manualmente (ssid e senha). aí depois é só ir em adicionar impressora que acha a impressora e adicionar. usar aplicativo no celular pra ver config de setup da impressora, como limpar cabeçote e níverl de tinta. pq no linux é chato fazer configurar.
+   
+   comandos linux
+   df -h (mostra espaço linux)
+   df -i (mostra inodes)
+   netstat -atunp (mostra todas as portas e ips )
+   ps -ef (mostra todos os processos)
+   top (mostra resumo do sistema, consume de memória - NI mostra prioridade e -20 é o máximo de prioridade)
+   du -sh * (mostra o tamanho dos arquivos)
+   crtl + r (reverse search do history)
+   alt+t (reverte o que digitou)
+   
+   
 
