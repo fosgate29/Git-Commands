@@ -10,6 +10,9 @@ Good tutorial: https://www.youtube.com/watch?v=vBreXjkizgo
 Nodemodule tip:
 npm install -g depcheck
 than 'npx depcheck' inside root directory
+
+Secure project:
+LavaMoat - https://github.com/LavaMoat/lavamoat
   
   
 
