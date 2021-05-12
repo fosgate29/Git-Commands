@@ -86,19 +86,17 @@ List differecens:
 
 ### Luiz dev environment
 - Visual Code
-- JAva
-- Eclipse - usar java 8 - sudo apt install openjdk-8-jdk openjdk-8-jre - GWT
 - Github
 - Terminator
 - Metamask
+- Hardhat
 - Truffle
 - npm
+- nodejs 
+- sudo apt-get install vlc (pra ver videos mp4)
 
- - Instalar HP P1005 antiga no Ubuntu: só funcionou seguindo isto, depois de instalar hplib e executando  python3 $(which hp-setup)
- 
+
  - setar no github ssh e gpg key
- 
- - install mysql workbench
  
  - fazer L3150 funcionar em Ubuntu: 
    https://tutorialforlinux.com/2020/03/11/step-by-step-driver-epson-l3150-l3160-ubuntu-20-04-installation/
