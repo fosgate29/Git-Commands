@@ -113,4 +113,35 @@ List differecens:
    alt+t (reverte o que digitou)
    
    
+   
+   ### Initial code for challenges
+   ```Java
+   import java.util.*;
+
+   public class MyClass {
+    public static void main(String args[]) {
+    String str = "123deefghhij4k555443";
+
+    Map<String,String> map = new HashMap<String, String>();
+    List<String> list = new ArrayList<String>();
+    Iterator<String> it = list.iterator();
+    
+    while(it.hasNext()){
+        String s = it.next();
+    }
+    
+    int cont = 0;
+    for(int i=0; i<cont; i++){
+        
+    }
+    
+    StringTokenizer tokenizer = new StringTokenizer(str, ",");
+    while (tokenizer.hasMoreElements()) {
+        tokenizer.nextToken();
+    }
+
+
+    }
+   }
+   ```
 
