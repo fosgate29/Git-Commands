@@ -84,6 +84,9 @@ List differecens:
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
 
+### Rebase
+https://www.youtube.com/watch?v=f1wnYdLEpgI
+
 ### Luiz dev environment
 - Visual Code
 - Github
