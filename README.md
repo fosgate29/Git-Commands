@@ -115,7 +115,8 @@ https://www.youtube.com/watch?v=f1wnYdLEpgI
    crtl + r (reverse search do history)
    alt+t (reverte o que digitou)
    
-   
+   comandos docker
+  docker stop $(docker ps -a -q)
    
    ### Initial code for challenges
    ```Java
