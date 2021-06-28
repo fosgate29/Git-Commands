@@ -87,6 +87,9 @@ List differecens:
 ### Rebase
 https://www.youtube.com/watch?v=f1wnYdLEpgI
 
+### Docker tips:
+  https://typeofnan.dev/how-to-stop-all-docker-containers/
+  
 ### Luiz dev environment
 - Visual Code
 - Github
